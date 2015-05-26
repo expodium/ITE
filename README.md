@@ -1,4 +1,4 @@
-ITE - Insite Template Engine
+ITE - Insite Template Engine (project Osiris)
 ===
 
 PHP Template Engine
